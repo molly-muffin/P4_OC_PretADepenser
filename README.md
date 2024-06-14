@@ -22,10 +22,9 @@ Une société financière souhaite fournir à ses chargés de relation client un
     - missingo
     - wordcloud
     - ipywidgets
-    - scipy
-    - statsmodels
     - numpy
     - sklearn
+    - shap
     
 `Jupyter notebook`
 
