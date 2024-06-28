@@ -7,9 +7,10 @@ Une société financière souhaite fournir à ses chargés de relation client un
 
 ### Le projet inclu :
 
-- un notebook contenant l'exploration et l'analyse des données
-- un notebook contenant l'entraînement des modèles
-- un notebook contenant l'optimisation et d'interprétation
+- un notebook contenant :
+    - l'exploration et l'analyse des données
+    - l'entraînement des modèles
+    - l'optimisation et d'interprétation
 - un diaporama contenant la présentation visuelle de l'analyse des données
 
 ### Environnement de développement et outils utiles à la réalisation du projet :
